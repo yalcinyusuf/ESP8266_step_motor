@@ -1,5 +1,5 @@
 String agAdi = "sin37";                   //Ağımızın adını buraya yazıyoruz.    
-String agSifresi = "19191923";             //Ağımızın şifresini buraya yazıyoruz.
+String agSifresi = "********";             //Ağımızın şifresini buraya yazıyoruz.
 int motorPin1 = 3, motorPin2 = 4, motorPin3 = 5, motorPin4 = 6; //Step motor pinlerini tanımlıyoruz.
 
 void setup(){ 
